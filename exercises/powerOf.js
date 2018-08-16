@@ -3,6 +3,4 @@ function powerOf(numberArray, power) {
 }
 
 
-module.exports = {
-	powerOf: (...args) => powerOf(...args)
-}
+module.exports = powerOf
